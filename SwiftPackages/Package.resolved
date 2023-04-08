@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "indirectlycodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/p-x9/IndirectlyCodable.git",
+      "state" : {
+        "revision" : "81bfc339dde53a3739f82517dbef0e4cac1d9cc3",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "keypathvalue",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/p-x9/KeyPathValue.git",
+      "state" : {
+        "revision" : "6aeb41d6c5564ae1f18e8b7a4bc5733d739558e3",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "sdcalayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/p-x9/SDCALayer.git",
+      "state" : {
+        "revision" : "814556135bab4772628af92872253400b9e83f93",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "yams",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jpsim/Yams.git",
+      "state" : {
+        "revision" : "01835dc202670b5bb90d07f3eae41867e9ed29f6",
+        "version" : "5.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}

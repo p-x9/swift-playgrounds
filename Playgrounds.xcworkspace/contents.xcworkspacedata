@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SwiftPackages">
+   </FileRef>
+   <FileRef
+      location = "group:SDCALayer.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Demangle.playground">
+   </FileRef>
+</Workspace>
