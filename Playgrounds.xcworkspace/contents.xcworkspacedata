@@ -5,12 +5,12 @@
       location = "group:SwiftPackages">
    </FileRef>
    <FileRef
-      location = "group:SDCALayer.playground">
+      location = "group:playgrounds/SDCALayer.playground">
    </FileRef>
    <FileRef
-      location = "group:Demangle.playground">
+      location = "group:playgrounds/Demangle.playground">
    </FileRef>
    <FileRef
-      location = "group:InvertAudioPhase.playground">
+      location = "group:playgrounds/InvertAudioPhase.playground">
    </FileRef>
 </Workspace>
