@@ -13,4 +13,7 @@
    <FileRef
       location = "group:playgrounds/InvertAudioPhase.playground">
    </FileRef>
+   <FileRef
+      location = "group:playgrounds/DynamicString.playground">
+   </FileRef>
 </Workspace>
