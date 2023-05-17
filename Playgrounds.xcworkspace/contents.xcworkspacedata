@@ -16,4 +16,7 @@
    <FileRef
       location = "group:playgrounds/DynamicString.playground">
    </FileRef>
+   <FileRef
+      location = "group:playgrounds/GaussianFilter.playground">
+   </FileRef>
 </Workspace>
