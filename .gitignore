@@ -37,6 +37,10 @@ node_modules/
 *.dSYM
 *.generated.swift
 
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
 
 Carthage/
 Pods/
